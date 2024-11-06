@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohd Yusuf
--  Front end Developer | Python Developer
+- Python Developer
 - 👀 I’m interested in learning new things and researching
 - 🌱 I’m currently learning Python and SQL to advance my career in cloud
 - 💞️ I’m looking to collaborate on innovative Python and SQL projects
