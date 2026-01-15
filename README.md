@@ -102,15 +102,7 @@
   </a>
 </p>
 
-<h3 align="left">My Developed Website's in Xpia Electronics Private Ltd:</h3>
+<h3 align="left">What I've Built</h3>
  1. Sales Order Management (SOM): https://xpiai.com/ </br>
  2. Return Merchandise Authorization (RMA): https://teksoulrma.great-site.net/ </br>
 </br>
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohd-yusuf1&show_icons=true&locale=en&layout=compact" alt="mohd-yusuf1" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohd-yusuf1&show_icons=true&locale=en" alt="mohd-yusuf1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohd-yusuf1&" alt="mohd-yusuf1" /></p>
