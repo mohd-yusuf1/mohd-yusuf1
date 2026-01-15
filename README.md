@@ -9,12 +9,7 @@
 
 - ⚡ Fun fact **I am sigma😎**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mohd-yusuf-8419b9333/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd yusuf" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools
 <p align="left">
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin-right:10px;">
@@ -102,7 +97,15 @@
   </a>
 </p>
 
-<h3 align="left">What I've Built</h3>
+## What I've Built
  1. Sales Order Management (SOM): https://xpiai.com/ </br>
  2. Return Merchandise Authorization (RMA): https://teksoulrma.great-site.net/ </br>
-</br>
+
+## 🌟 About Me
+
+Hi there! I'm **Mohd Yusuf**
+
+Let's stay in touch! Feel free to connect with me on the following platforms:
+
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MohdYusuf_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-yusuf-8419b9333/)
