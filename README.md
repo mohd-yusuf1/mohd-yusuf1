@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohd-yusuf1&label=Profile%20views&color=0e75b6&style=flat" alt="mohd-yusuf1" /> </p>
 
-- 👨‍💻 My projects are available at [https://github.com/mohd-yusuf1/project](https://mohd-yusuf1.github.io/Portfolio/)
+- 👨‍💻 My projects are available at [https://github.com/mohd-yusuf1/portfolio](https://mohd-yusuf1.github.io/Portfolio/)
 
 - ⚡ Fun fact **I am sigma😎**
 
