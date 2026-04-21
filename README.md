@@ -1,111 +1,104 @@
-<h1 align="center">Hi 👋, I'm Mohd Yusuf</h1>
-<h3 align="center">A passionate Data engineer</h3>
+<h1 align="center">Hey there, I'm Mohammad Yusuf 👋</h1>
+<h3 align="center">Data Engineer & Full Stack Developer | New Delhi</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohd-yusuf1&label=Profile%20views&color=0e75b6&style=flat" alt="mohd-yusuf1" /> </p>
-
-- 👨‍💻 My projects are available at [https://github.com/mohd-yusuf1/portfolio](https://mohd-yusuf1.github.io/Portfolio/)
-
-- ⚡ Fun fact **I am sigma😎**
-
-## Languages and Tools
-<p align="left">
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin-right:10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammad-yusuf-8419b9333">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
-  <!-- PostgreSQL -->
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="margin-right:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  
-  <!-- Databricks (colored) -->
-  <a href="https://www.databricks.com" target="_blank" rel="noreferrer" style="margin-right:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/databricks.svg" alt="Databricks" width="40" height="40" style="fill:#FF6200"/>
-  </a>
-
-  <!-- AWS -->
-  <a href="https://signin.aws.amazon.com/signup?request_type=register" target="_blank" rel="noreferrer" style="margin-right:10px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazonaws.svg" alt="AWS" width="40" height="40" style="fill:#FF9900"/>
-  </a>
-  
-  <!-- MySQL -->
-  <a href="https://www.mysql.com" target="_blank" rel="noreferrer" style="margin-right:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  
-  <!-- Java -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="margin-right:10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  
-  <!-- C -->
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="margin-right:10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-
-  <!-- C++ -->
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="margin-right:10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-
-  <!-- HTML5 -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="margin-right:10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  
-  <!-- CSS3 -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="margin-right:10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin-right:10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-
-  <!-- React -->
-  <a href="https://react.dev" target="_blank" rel="noreferrer" style="margin-right:10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  </a>
-
-  <!-- React Native -->
-  <a href="https://reactnative.dev" target="_blank" rel="noreferrer" style="margin-right:10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactnative/reactnative-original.svg" alt="reactnative" width="40" height="40"/>
-  </a>
-
-  <!-- Node.js -->
-  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer" style="margin-right:10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-
-  <!-- Express.js -->
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="margin-right:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="expressjs" width="40" height="40"/>
-  </a>
-
-  <!-- PHP -->
-  <a href="https://www.php.net" target="_blank" rel="noreferrer" style="margin-right:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-
-  <!-- Bootstrap -->
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="margin-right:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
+  <a href="mailto:yusufsheikh5348309@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-## What I've Built
- 1. Sales Order Management (SOM): https://xpiai.com/ </br>
- 2. Return Merchandise Authorization (RMA): https://teksoulrma.great-site.net/ </br>
+---
 
-## 🌟 About Me
+### 👨‍💻 About Me
 
-Hi there! I'm **Mohd Yusuf**
+- 🔭 Currently working as **Full Stack Developer** at **XPIA Electronics Pvt Ltd**
+- 🚀 Built & deployed production systems: **RMA** (Infinity platform) & **SOM** (AWS)
+- 🌱 Upskilling in **PySpark · Databricks · ETL Pipelines · Data Engineering**
+- 🎓 Pursuing **BCA** from IGNOU University (Final Semester, 2022–2026)
+- 📫 Reach me at **yusufsheikh5348309@gmail.com**
 
-Let's stay in touch! Feel free to connect with me on the following platforms:
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-yusuf-8419b9333)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohd-yusuf1.github.io/Portfolio/)
+### 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+**Data Engineering *(Learning)***
+
+![Python](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+---
+
+### 🚀 Featured Projects
+
+#### 🔁 RMA – Return Merchandise Authorization System
+> *Live on Infinity Platform*
+
+- Engineered a full-stack platform to streamline product return workflows and authorization processes
+- Built with **Node.js + PostgreSQL** — optimized queries for high-volume transactions
+- **Stack:** React · Node.js · PostgreSQL · AWS
+
+---
+
+#### 📦 SOM – Sales Order Management System (Website)
+> *Live on AWS*
+
+- Comprehensive order management system handling end-to-end sales workflows
+- Deployed on **AWS EC2 + RDS** for high availability and seamless production use
+- **Stack:** React · Node.js · PostgreSQL · EC2 · RDS
+
+---
+
+#### 📦 SOM – Sales Order Management System (App)
+> *Live on AWS*
+
+- Comprehensive order management cross-platform app handling end-to-end sales workflows
+- Deployed on **AWS EC2 + RDS** for high availability and seamless production use
+- **Stack:** React Native · Expo Go · Node.js · PostgreSQL · EC2 · RDS
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohd-yusuf1&show_icons=true&theme=default&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-yusuf1&layout=compact&theme=default&hide_border=true" height="160" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohd-yusuf1&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
