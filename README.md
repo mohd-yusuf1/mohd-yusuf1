@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Mohammad Yusuf 👋</h1>
-<h3 align="center">Data Engineer & Full Stack Developer | New Delhi</h3>
+<h3 align="center">Full Stack Developer & Data Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammad-yusuf-8419b9333">
