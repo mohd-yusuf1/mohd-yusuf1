@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Mohammad Yusuf 👋</h1>
-<h3 align="center">Full Stack Developer & Data Engineer</h3>
+<h3 align="center">Full Stack Developer & Aspiring Data Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammad-yusuf-8419b9333">
@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working as **Full Stack Developer** at **XPIA Electronics Pvt Ltd**
+- 🔭 Currently working as **Full Stack Developer** at **XPEYE ELECTRONICS PVT.LTD**
 - 🚀 Built & deployed production systems: **RMA** (Infinity platform) & **SOM** (AWS)
 - 🌱 Upskilling in **PySpark · Databricks · ETL Pipelines · Data Engineering**
 - 🎓 Pursuing **BCA** from IGNOU University (Final Semester, 2022–2026)
@@ -63,6 +63,16 @@
 ---
 
 ### 🚀 Featured Projects
+
+#### 🔁 Raah-e-Akhirah – NGO Website
+> *Live on https://raaheaakhirah.org/*
+
+- Built a full-stack client website for an NGO with an admin panel supporting CRUD operations for donation records,
+projects, and QR codes.
+- Designed a JSON file and folder-based storage system to persist and manage all admin-entered data.
+- Delivered the full project independently, from planning and design through deployment for live client use.
+
+---
 
 #### 🔁 RMA – Return Merchandise Authorization System
 > *Live on Infinity Platform*
