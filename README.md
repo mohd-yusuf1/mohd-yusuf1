@@ -18,6 +18,7 @@
 - 🚀 Built & deployed production systems: **RMA** (Infinity platform) & **SOM** (AWS)
 - 🌱 Upskilling in **PySpark · Databricks · ETL Pipelines · Data Engineering**
 - 🎓 Pursuing **BCA** from IGNOU University (Final Semester, 2022–2026)
+- 🌏 Portfolio **https://mohd-yusuf1.github.io/yusuf-portfolio/**
 - 📫 Reach me at **yusufsheikh5348309@gmail.com**
 
 ---
